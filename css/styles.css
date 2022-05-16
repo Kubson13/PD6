@@ -467,7 +467,7 @@ section {
     display: flex;
     justify-content: space-between;
 }
-.paragraph-list-item-footer:not(:last-child) {
+.paragraph-list-item-footer:last-child {
     margin-right:70px;
 }
 .footer .navigation-logo {
